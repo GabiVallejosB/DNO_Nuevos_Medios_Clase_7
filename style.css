@@ -10,12 +10,12 @@
     --mediano:calc(0.81rem + 0.81vw);
     --medianoAjustado:calc(0.81rem + 0.405vw);
     --normal:calc(1rem - 0.162vw);
-    --grisOscuro:rgb(200,200,200);
-    --grisMedio:rgb(225,225,225);
-    --grisClaro:rgb(250,250,250);
-    --foreground:rgba(0,0,0,.6);
-    --foregroundLink:rgba(0,0,0,.8);
-    --foregroundHover:rgba(0,0,0,1);
+    --grisOscuro:rgb(255,248,229);
+    --grisMedio:rgb(255,242,207);
+    --grisClaro:rgb(255,227,150);
+    --foreground:rgba(79,57,0,1);
+    --foregroundLink:rgba(79,57,0,1);
+    --foregroundHover:rgba(79,57,0,1);
 }
 
 html,
